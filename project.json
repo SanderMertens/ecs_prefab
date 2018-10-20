@@ -1,0 +1,7 @@
+{
+    "id":"ecs_prefab",
+    "type":"executable",
+    "value": {
+        "use": ["reflecs"]
+    }
+}
